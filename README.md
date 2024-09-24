@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a Software Developer at WEG
 - 🌱 I’m currently learning React
 - 📫 How to reach me: viniciuscmuller@gmail.com
 
